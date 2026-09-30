@@ -1,0 +1,34 @@
+1. Arrays, Strings & Hash Maps
+
+Two Sum (Hash map pattern)
+Valid Anagram / Group Anagrams (Hash map companion)
+Product of Array Except Self (Prefix/suffix products)
+Top K Frequent Elements (Heap / sorting frequency)
+
+2. Two Pointers & Sliding Window
+
+Valid Palindrome (Two pointers outward/inward)
+Container With Most Water (Two pointers inward)
+3Sum (Sorting + Two pointers)
+Longest Substring Without Repeating Characters (Sliding window)
+Minimum Window Substring (Advanced sliding window)
+
+3. Stacks, Linked Lists & Intervals
+
+Valid Parentheses (Stack pattern)
+Merge Two Sorted Linked Lists (Pointer manipulation)
+Merge Intervals (Sorting / interval overlapping pattern)
+
+4. Searching, Trees & Graphs
+
+Binary Search (Divide and conquer)
+Invert Binary Tree / Valid Binary Search Tree (Core DFS/BFS tree traversal)
+Course Schedule (Graph traversal / topological sort / cycle detection)
+
+5. Dynamic Programming & Math
+
+Best Time to Buy and Sell Stock (Track min & profit)
+Maximum Subarray (Kadane’s Algorithm)
+Climbing Stairs / nth Fibonacci Number (Basic DP / memoization)
+Longest Palindromic Substring (Expand around center / DP)
+Word Break (String DP)
